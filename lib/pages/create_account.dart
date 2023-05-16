@@ -1,4 +1,4 @@
-import 'dart:developer';
+// ignore_for_file: use_build_context_synchronously, must_be_immutable
 
 import 'package:crypto_wallet/authentication/authenticate_user.dart';
 import 'package:crypto_wallet/constants/colors.dart';

@@ -26,7 +26,7 @@ void main() async {
         PagesRoutesNames.welcomePage: (context) => const WelcomePage(),
         PagesRoutesNames.createAccount: (context) => CreateAccount(),
         PagesRoutesNames.recoverAccount: (context) => RecoverAccount(),
-        PagesRoutesNames.homePage: (context) => HomePage(),
+        PagesRoutesNames.homePage: (context) => const HomePage(),
         PagesRoutesNames.sendMoney: (context) => const SendMoney(),
         PagesRoutesNames.transactions: (context) => const Transactions(),
         PagesRoutesNames.receiveMoney: (context) => const Receive(),

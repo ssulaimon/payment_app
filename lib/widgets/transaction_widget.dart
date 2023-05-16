@@ -1,8 +1,8 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:crypto_wallet/constants/colors.dart';
 import 'package:crypto_wallet/widgets/text_style_custom.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 class TransactionWidget extends StatelessWidget {
   String type;

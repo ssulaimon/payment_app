@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:crypto_wallet/authentication/authenticate_user.dart';
 import 'package:crypto_wallet/constants/api_keys.dart';
 import 'package:crypto_wallet/constants/colors.dart';
